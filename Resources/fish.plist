@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fish1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{134, 98}, {199, 82}}</string>
+			<key>offset</key>
+			<string>{1, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {157, 97}}</string>
+			<key>offset</key>
+			<string>{-15, 10}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 98}, {133, 97}}</string>
+			<key>offset</key>
+			<string>{-19, 9}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{555, 0}, {189, 71}}</string>
+			<key>offset</key>
+			<string>{1, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 196}, {147, 87}}</string>
+			<key>offset</key>
+			<string>{-14, 10}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 196}, {122, 88}}</string>
+			<key>offset</key>
+			<string>{-20, 9}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 263}, {196, 81}}</string>
+			<key>offset</key>
+			<string>{-2, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 0}, {199, 81}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 181}, {199, 81}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>fish10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 366}, {196, 81}}</string>
+			<key>offset</key>
+			<string>{-2, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{471, 165}, {191, 81}}</string>
+			<key>offset</key>
+			<string>{-5, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 0}, {196, 82}}</string>
+			<key>offset</key>
+			<string>{-2, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 284}, {199, 81}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{334, 83}, {199, 81}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 373}, {196, 82}}</string>
+			<key>offset</key>
+			<string>{-2, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/GShark_actor_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 285}, {190, 87}}</string>
+			<key>offset</key>
+			<string>{-5, 1}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{662, 160}, {185, 71}}</string>
+			<key>offset</key>
+			<string>{-2, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{394, 417}, {188, 71}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{394, 345}, {188, 71}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{583, 417}, {186, 71}}</string>
+			<key>offset</key>
+			<string>{-2, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{773, 231}, {180, 71}}</string>
+			<key>offset</key>
+			<string>{-4, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{583, 345}, {186, 71}}</string>
+			<key>offset</key>
+			<string>{-2, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{744, 0}, {189, 71}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{744, 72}, {188, 71}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{587, 247}, {185, 71}}</string>
+			<key>offset</key>
+			<string>{-2, 4}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+		<key>游动/Shark_actor_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{534, 82}, {179, 77}}</string>
+			<key>offset</key>
+			<string>{-5, 0}</string>
+			<key>sourceSize</key>
+			<string>{225, 125}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>realTextureFileName</key>
+		<string>fish.png</string>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:5c48cfd32dd8e720d8ab7260072632fb$</string>
+		<key>textureFileName</key>
+		<string>fish.png</string>
+	</dict>
+</dict>
+</plist>
